@@ -9,3 +9,8 @@
   .weatherMeasure {
     font-size: 12px;
   }
+
+  .weatherDescription{
+    font-size: 22px;
+    font-weight: bold;
+  }
