@@ -10,4 +10,4 @@ https://still-garden-27220.herokuapp.com/
 * The application then grabs the current weather for that location from OpenWeatherMap and displays it on the page
 * Deploy your project somewhere so it's accessible from the web. Heroku or a static host if you're going that route are perfectly fine.
 
-![picture alt](https://imgur.com/8r1uFAs "Weather Demo")
+![picture alt](https://i.imgur.com/8r1uFAs.png "Weather Demo")
