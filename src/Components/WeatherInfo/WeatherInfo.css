@@ -1,0 +1,11 @@
+.weatherInfoContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #325173;
+  }
+  
+  .weatherMeasure {
+    font-size: 12px;
+  }
